@@ -1,0 +1,17 @@
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\bin\Debug\Resources\books.xml
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\bin\Debug\Resources\output.xsl
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\bin\Debug\MSXslCompiler.exe.config
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\bin\Debug\MSXslCompiler.exe
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\bin\Debug\MSXslCompiler.pdb
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\obj\Debug\MSXslCompiler.csproj.CoreCompileInputs.cache
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\obj\Debug\MSXslCompiler.exe
+C:\Users\sn78196\source\repos\XslCompiler\MSXslCompiler\obj\Debug\MSXslCompiler.pdb
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\bin\Debug\Resources\books.xml
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\bin\Debug\Resources\output.xsl
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\bin\Debug\MSXslCompiler.exe.config
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\bin\Debug\MSXslCompiler.exe
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\bin\Debug\MSXslCompiler.pdb
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\obj\Debug\MSXslCompiler.csprojAssemblyReference.cache
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\obj\Debug\MSXslCompiler.csproj.CoreCompileInputs.cache
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\obj\Debug\MSXslCompiler.exe
+C:\Users\sn78196\source\repos\MSXslCompiledTransformDemo\MSXslCompiledTransformDemo\MSXslCompiler\obj\Debug\MSXslCompiler.pdb
